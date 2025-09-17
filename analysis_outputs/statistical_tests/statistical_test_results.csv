@@ -1,0 +1,4 @@
+Test,Statistic,P_Value,Significant
+HIV Temporal Trend (Spearman),0,5e-5,TRUE
+Mortality Temporal Trend (Spearman),612104,0,TRUE
+Under5-Neonatal Correlation (Pearson),4.6186,0.003621,TRUE
